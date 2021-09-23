@@ -1,4 +1,4 @@
-<h1><sice><strong><span style="font-size:20px;">Ferrari</strong></h1>
+<h1><sice><strong><span style="font-size:25px;">Ferrari</strong></h1>
 <html>
 <head>
 	<h2>La historia detras de una gran máquina.</h2>
