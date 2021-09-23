@@ -1,7 +1,7 @@
 <h1><strong>Ferrari</strong></h1>
 <html>
 <head>
-	La historia detras de una gran máquina.
+	<h2>La historia detras de una gran máquina.</h2>
 </head>
 <body>
 
