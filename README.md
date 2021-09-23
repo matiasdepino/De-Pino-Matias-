@@ -21,9 +21,7 @@
 <p>Estos fueron los autos más icónicos fabricados con la supervisión de Enzo</p>
 
 <p>En 1970, Enzo Ferrari es relevado de su cargo en la Gestión Deportiva por su hijo Piero. Siete años más tarde, Carrozzeria Scaglietti di Modena, la empresa que diseña el aspecto exterior de los vehéculos, se incorpora a la estructura de la compaña. Mucho antes, en 1971, Enzo decide construir el Circuito de Fiorano, que se inaugura en 1972. En Fórmula 1, Niki Lauda vence en 1975 y 1977, mientras que Jody Scheckter hace lo propio en 1979. Piero Ferrari se convierte en director ejecutivo de Gestión Deportiva. En 1982, la producción de coches de carreras se traslada a esa sección. En 1987 se presenta el F40, el último vehículo creado bajo la supervisión de Enzo, que muere un año más tarde.</p>
-	<img https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fcamposverdes1%2Fautomoviles%2F&psig=AOvVaw3PgIBkgRjc-9GfeBwoxFqW&ust=1632509717786000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDYkODilfMCFQAAAAAdAAAAABAI>
-	
-	
+<img src="//www.html.am/images/image-codes/milford_sound_t.jpg" width="225" height="151" alt="Photo of Milford Sound in New Zealand" />	
 	<h3><span style="font-size:10px;">Sitio web escrito por Matias De Pino</span></h3>
 	
 </body>
