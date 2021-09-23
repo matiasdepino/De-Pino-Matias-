@@ -2,7 +2,7 @@
 Historia de Ferrari, vista desde el punto de Enzo
 <html>
 <head>
-	<title></title>
+	<title>La historia detras de una gran máquina</title>
 </head>
 <body>
 <h2>Ferrari</h2>
